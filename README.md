@@ -1,6 +1,9 @@
 # 문미지 (Moon Miji)
-
+![Profile](https://img.shields.io/badge/👨‍💻-Frontend_Developer-informational?style=flat-square)
+![Profile](https://img.shields.io/badge/🚀-9_Years-blueviolet?style=flat-square)
+<!--![Profile](https://img.shields.io/badge/⭐-React_&_Vue-yellow?style=flat-square)-->
 > "사용자 경험을 완성하는 프론트엔드 개발자"
+</br>
 
 **9년 경력의 프론트엔드 개발자**로 React · Vue 기반 서비스 구축 및 유지보수를 중심으로 사용자 중심의 UI/UX 구현과 협업에 강점을 가지고 있습니다.
 
@@ -93,8 +96,7 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 ## 💼 경력 (Career)
 
-### 프리랜서
-**프리랜서 웹·앱 개발** | 2021.02 - 현재 (4년 7개월)
+### 프리랜서 | 웹·앱 개발 | 2021.02 - 현재 (4년 7개월) ![Status](https://img.shields.io/badge/✓-Freelancer-orange?style=flat-square)
 
 **Tech Stack**: React, Vue, Next.js, React Native, Node.js, MongoDB, MySQL
 
@@ -135,7 +137,7 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 ---
 
-### 주식회사 슈프리마
+### 주식회사 슈프리마 ![Full-time](https://img.shields.io/badge/✓-Full--time-success?style=flat-square)
 **정규직 웹 개발 전임 연구원** | 2017.07 - 2020.07 (3년 1개월)
 
 **Tech Stack**: AngularJS, Java, Node.js
@@ -148,7 +150,7 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 ---
 
-### (주)이노와이어리스
+### (주)이노와이어리스 ![Full-time](https://img.shields.io/badge/✓-Full--time-success?style=flat-square)
 **정규직 웹 개발 주임연구원** | 2014.07 - 2017.07 (3년 1개월)
 
 **Tech Stack**: AngularJS, HTML, CSS, JavaScript, KendoUI, Node.js, C#
