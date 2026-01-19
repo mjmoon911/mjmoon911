@@ -3,7 +3,9 @@
 > "사용자 경험을 완성하는 프론트엔드 개발자"
 
 **9년 경력의 프론트엔드 개발자**로 React · Vue 기반 서비스 구축 및 유지보수를 중심으로 사용자 중심의 UI/UX 구현과 협업에 강점을 가지고 있습니다.
+
 HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확장하여 직관적이고 완성도 높은 인터페이스를 구현해 왔습니다.
+
 백엔드 구조에 대한 이해를 바탕으로 협업과 유지보수를 고려한 개발을 지향하며, 작은 디테일까지 책임지는 구현으로 서비스 품질과 사용자 경험을 완성합니다.
 
 📧 **Contact**: mjmoon911@naver.com
@@ -52,39 +54,44 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 ---
 
+## 🎯 포트폴리오 (Portfolio)
+
+<!--### 🌐 Live Demo-->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 콴텍 - AI 자동투자 플랫폼
+**Next.js · GSAP · Framer Motion**
+
+홈페이지 전면 리뉴얼 및 인터랙티브 애니메이션 구현
+
+🔗 [https://www.quantec.co.kr](https://www.quantec.co.kr)
+
+<!-- GIF 삽입 위치 -->
+![Quantec Demo](./images/quantec.gif)
+
+</td>
+<td width="50%" valign="top">
+
+#### WON Travel - 항공권 예약 플랫폼
+**React · Next.js · TypeScript**
+
+항공 예약 전체 플로우 UI/UX 구현
+
+🔗 [https://www.won.travel](https://www.won.travel)
+
+<!-- GIF 삽입 위치 -->
+![WON Travel Demo](./images/wontravel.gif)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 경력 (Career)
-
-### 주식회사 슈프리마
-**정규직 웹 개발 전임 연구원** | 2017.07 - 2020.07 (3년 1개월)
-
-**Tech Stack**: AngularJS, Java, Node.js
-
-#### 입출입 관리 시스템 개발
-- 지문인식 단말기 연동, 실시간 출입 정보 처리
-
-#### 근태관리 솔루션
-- 지문인식 기반 근태 관리 시스템 개발 및 운영
-
----
-
-### (주)이노와이어리스
-**정규직 웹 개발 주임연구원** | 2014.07 - 2017.07 (3년 1개월)
-
-**Tech Stack**: AngularJS, HTML, CSS, JavaScript, KendoUI, Node.js, C#
-
-#### KT G 최적화 솔루션
-- 하이브리드 웹앱 개발
-
-#### KT Wing 프로젝트 유지보수
-- 지도 기반 UI 구현 및 기능 개선
-
-#### Femtocell Management 솔루션
-- 펨토셀 단말 원격 관리 (팀 내 첫 Node.js 프로젝트)
-
-#### 4G/LTE 최적화 관리 솔루션
-- SK 텔레콤 4G/LTE 통신 최적화 관리 솔루션 개발
-
----
 
 ### 프리랜서
 **프리랜서 웹·앱 개발** | 2021.02 - 현재 (4년 7개월)
@@ -128,8 +135,63 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 ---
 
+### 주식회사 슈프리마
+**정규직 웹 개발 전임 연구원** | 2017.07 - 2020.07 (3년 1개월)
+
+**Tech Stack**: AngularJS, Java, Node.js
+
+#### 입출입 관리 시스템 개발
+- 지문인식 단말기 연동, 실시간 출입 정보 처리
+
+#### 근태관리 솔루션
+- 지문인식 기반 근태 관리 시스템 개발 및 운영
+
+---
+
+### (주)이노와이어리스
+**정규직 웹 개발 주임연구원** | 2014.07 - 2017.07 (3년 1개월)
+
+**Tech Stack**: AngularJS, HTML, CSS, JavaScript, KendoUI, Node.js, C#
+
+#### KT G 최적화 솔루션
+- 하이브리드 웹앱 개발
+
+#### KT Wing 프로젝트 유지보수
+- 지도 기반 UI 구현 및 기능 개선
+
+#### Femtocell Management 솔루션
+- 펨토셀 단말 원격 관리 (팀 내 첫 Node.js 프로젝트)
+
+#### 4G/LTE 최적화 관리 솔루션
+- SK 텔레콤 4G/LTE 통신 최적화 관리 솔루션 개발
+
+---
+
 ## 🎓 학력 & 자격증
 
 **한국외국어대학교** | 디지털정보공학과 졸업 (공학인증수여)
 
 **정보처리기사** | 한국산업인력공단
+
+<!--
+## 💡 강점
+
+### 웹 퍼블리싱 & 프론트엔드 기본기
+- HTML / CSS / JavaScript(jQuery) 기반 UI 구현
+- 반응형 웹 및 크로스 브라우징 고려한 마크업
+
+### 프론트엔드 개발
+- React / Vue / Next.js 기반 컴포넌트 설계 및 상태 관리
+
+### API 연동 & 비동기 처리
+- REST API · DB 연동 경험
+- 풀스택 개발 경험 기반 End-to-End 이해
+
+### 성능 최적화 & UX 개선
+- 렌더링 최적화 및 로딩 속도 개선
+- 사용자 중심 인터랙션 설계
+
+### 유지보수 & 확장성
+- 공통 컴포넌트화
+- 구조적인 프로젝트 설계 및 코드 관리
+-->
