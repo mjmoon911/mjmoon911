@@ -67,10 +67,10 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 홈페이지 전면 리뉴얼 및 인터랙티브 애니메이션 구현
 
-🔗 [https://www.quantec.co.kr](https://www.quantec.co.kr)
-
 <!-- GIF 삽입 위치 -->
 ![Quantec Demo](./images/quantec.gif)
+
+🔗 [https://www.quantec.co.kr](https://www.quantec.co.kr)
 
 </td>
 <td width="50%" valign="top">
@@ -80,10 +80,10 @@ HTML, CSS, JavaScript(jQuery)를 기반으로 React, Next.js, Vue.js까지 확�
 
 항공 예약 전체 플로우 UI/UX 구현
 
-🔗 [https://www.won.travel](https://www.won.travel)
-
 <!-- GIF 삽입 위치 -->
 ![WON Travel Demo](./images/wontravel.gif)
+
+🔗 [https://www.won.travel](https://www.won.travel)
 
 </td>
 </tr>
